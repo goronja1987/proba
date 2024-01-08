@@ -1,0 +1,1 @@
+Neki random tekst u novom file-u.
